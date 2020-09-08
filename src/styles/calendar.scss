@@ -21,6 +21,7 @@
     background-color: $background-color-hover;
     transition-duration: 0.5s;
     transform: translateY(-20px);
+    cursor: pointer;
   }
 
   &-mon {
